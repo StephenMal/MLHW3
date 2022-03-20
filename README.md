@@ -2,7 +2,7 @@
 
 ## Directory
 
-Results = Tree Diagrams, correlation matricies, test predictions
+Results = correlation matricies
 
 Datasets = Input files including titanic information and student data set for task 5
 
